@@ -1,0 +1,34 @@
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+/* Set the width of the sidebar to 120px */
+.w3-sidebar {width: 110px;background: rgba(23, 191, 132, 0.393);}
+/* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
+#main {margin-left: 110px}
+/* Remove margins from "page content" on small screens */
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+
+body{
+    background-color:black;
+    
+}
+
+.name{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 95px;
+    color: rgba(23, 191, 132, 0.557);
+}
+
+h4{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+
+p{
+    font-family:'Oswald', sans-serif;
+}
+
+
+
+.devicon-bootstrap-plain, .devicon-csharp-line-wordmark, .devicon-css3-plain, .devicon-git-plain, .devicon-github-plain, .devicon-grunt-plain, .devicon-heroku-plain {
+    font-size: 50px;
+}
