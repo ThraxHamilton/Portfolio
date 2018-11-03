@@ -1,4 +1,4 @@
-body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+/* body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif} */
 .w3-row-padding img {margin-bottom: 12px}
 /* Set the width of the sidebar to 120px */
 .w3-sidebar {width: 110px;background: rgba(23, 191, 132, 0.393);}
@@ -23,12 +23,21 @@ h4{
     font-size: 30px;
 }
 
-p{
+.linkedin, .github, .personal{
     font-family:'Oswald', sans-serif;
+    font-size: 14px;
+}
+
+.about-me{
+    font-family:'Oswald', sans-serif;
+    font-size: 19px
 }
 
 
 
-.devicon-bootstrap-plain, .devicon-csharp-line-wordmark, .devicon-css3-plain, .devicon-git-plain, .devicon-github-plain, .devicon-grunt-plain, .devicon-heroku-plain {
+
+
+
+.devicon-bootstrap-plain, .devicon-csharp-line-wordmark, .devicon-css3-plain, .devicon-git-plain, .devicon-github-plain, .devicon-grunt-plain, .devicon-heroku-plain, .devicon-html5-plain, .devicon-javascript-plain, .devicon-mysql-plain {
     font-size: 50px;
 }
