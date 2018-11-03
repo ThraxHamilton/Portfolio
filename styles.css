@@ -9,7 +9,6 @@
 
 body{
     background-color:black;
-    
 }
 
 .name{
@@ -30,7 +29,13 @@ h4{
 
 .about-me{
     font-family:'Oswald', sans-serif;
-    font-size: 19px
+    font-size: 19px;
+    color: gray;
+}
+
+h3{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px
 }
 
 
@@ -38,6 +43,6 @@ h4{
 
 
 
-.devicon-bootstrap-plain, .devicon-csharp-line-wordmark, .devicon-css3-plain, .devicon-git-plain, .devicon-github-plain, .devicon-grunt-plain, .devicon-heroku-plain, .devicon-html5-plain, .devicon-javascript-plain, .devicon-mysql-plain {
+.devicon-bootstrap-plain, .devicon-csharp-line-wordmark, .devicon-css3-plain, .devicon-git-plain, .devicon-github-plain, .devicon-grunt-plain, .devicon-heroku-plain, .devicon-html5-plain, .devicon-javascript-plain, .devicon-mysql-plain, .devicon-react-original, .devicon-dot-net-plain {
     font-size: 50px;
 }
