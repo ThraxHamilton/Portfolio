@@ -17,6 +17,15 @@ body{
     color: rgba(23, 191, 132, 0.557);
 }
 
+h2, h5{
+    font-family: 'Amatic SC', cursive;
+}
+
+h3{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px
+}
+
 h4{
     font-family: 'Amatic SC', cursive;
     font-size: 30px;
@@ -30,13 +39,10 @@ h4{
 .about-me{
     font-family:'Oswald', sans-serif;
     font-size: 19px;
-    color: gray;
+    color: rgb(128, 128, 128);
 }
 
-h3{
-    font-family: 'Amatic SC', cursive;
-    font-size: 40px
-}
+
 
 
 
